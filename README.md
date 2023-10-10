@@ -2,11 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm kusaraju</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-- 👨‍💻 All of my projects are available at [https://github.com/kusarajukalluri](https://github.com/kusarajukalluri)
-
-- 📫 How to reach me **kushikalluri875@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
