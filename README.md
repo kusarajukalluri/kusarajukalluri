@@ -1,5 +1,5 @@
 <div>
-<img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif">
+<img align="right" alt="Coding" width="600" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif">
 </div>
 <h1 align="center">Hi 👋, I'm kusaraju</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
